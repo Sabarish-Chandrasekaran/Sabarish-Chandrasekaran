@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS, Redux**
 
-- 👨‍💻 All of my projects are available at [https://sc-portfolio-sc.netlify.app/](https://sc-portfolio-sc.netlify.app/)
+- 👨‍💻 All of my projects are available at [<a href="https://sc-portfolio-sc.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-portfolio-4E69C8?style=for-the-badge&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a>](https://sc-portfolio-sc.netlify.app/)
 
 - 💬 Ask me about **MERN**
 
