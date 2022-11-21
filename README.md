@@ -142,9 +142,11 @@
       </a>
     </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabarish-chandrasekaran&show_icons=true&locale=en&layout=compact" alt="sabarish-chandrasekaran" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabarish-chandrasekaran&show_icons=true&locale=en" alt="sabarish-chandrasekaran" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabarish-chandrasekaran&" alt="sabarish-chandrasekaran" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabarish-chandrasekaran&show_icons=true&locale=en&layout=compact" alt="sabarish-chandrasekaran" /></p>
 
