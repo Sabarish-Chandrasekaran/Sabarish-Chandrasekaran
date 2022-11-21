@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fmernstack&psig=AOvVaw0tPR8mil7CTYoiHsgaWvP9&ust=1669119531382000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPi5g_igv_sCFQAAAAAdAAAAABAE)](https://sc-portfolio-sc.netlify.app/)
+[![MasterHead](https://user-images.githubusercontent.com/27279740/164895446-7bcdb5b4-06dd-4763-aa96-80e0fbdf4667.png)](https://sc-portfolio-sc.netlify.app/)
 <h1 align="center">Hi 👋, I'm Sabarish Chandrasekaran</h1>
 <h3 align="center">A passionate MERN Stack developer from Coimbatore,India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
