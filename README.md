@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **NextJS, Redux**
 
-- 👨‍💻 All of my projects are available at..... [Portfolio](https://sc-portfolio-sc.netlify.app/)
-
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **sabarish27k6@gmail.com**
+
+- 👨‍💻 All of my projects are available at..... [Portfolio](https://sc-portfolio-sc.netlify.app/)
 
 - 📄 Know about my experiences..... [resume](https://drive.google.com/file/d/1k8GqikelhUw2yUBa1hesBiEtPlTdWaeS/view?usp=share_link)
 
