@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **NextJS, Redux**
 
-- 👨‍💻 All of my projects are available at <a href="https://sc-portfolio-sc.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-portfolio-4E69C8?style=for-the-badge&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a>
+- 👨‍💻 All of my projects are available at..... [Portfolio](https://sc-portfolio-sc.netlify.app/)
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **sabarish27k6@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1k8GqikelhUw2yUBa1hesBiEtPlTdWaeS/view?usp=share_link](https://drive.google.com/file/d/1k8GqikelhUw2yUBa1hesBiEtPlTdWaeS/view?usp=share_link)
+- 📄 Know about my experiences..... [resume](https://drive.google.com/file/d/1k8GqikelhUw2yUBa1hesBiEtPlTdWaeS/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
